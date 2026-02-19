@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Machine Learning & Deep Learning
+vibecoding real-world AI solutions
+building > talking
 <!--
 **Pranay-Yadav-git/Pranay-Yadav-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
